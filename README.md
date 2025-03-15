@@ -25,7 +25,6 @@ CeeCine is built using the following technologies:
 - **Frontend:** Next.js, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **State Management:** Redux (if applicable)
 - **Styling:** Tailwind CSS / CSS Modules
 - **Authentication:** JWT (JSON Web Token)
 
