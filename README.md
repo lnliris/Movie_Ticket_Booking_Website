@@ -1,43 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CeeCine - Movie Ticket Booking Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            padding: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        ul, ol {
-            background: #fff;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        pre {
-            background: #333;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+
     <h1>CeeCine - Movie Ticket Booking Website</h1>
     <p>CeeCine is an online Movie Ticket Booking website built using the MERN Stack.</p>
 
@@ -103,5 +64,3 @@
     <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License.</p>
 
-</body>
-</html>
