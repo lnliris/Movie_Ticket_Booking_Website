@@ -43,8 +43,7 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ceecine.git
-   cd ceecine
+   git clone https://github.com/lnliris/Movie_Ticket_Booking_Website.git
    ```
 
 2. Install dependencies:
@@ -63,7 +62,7 @@ Follow these steps to set up and run the project locally:
 
 5. Open the app in your browser:
    ```
-   http://localhost:3000
+   http://localhost:8000
    ```
 
 ## License
